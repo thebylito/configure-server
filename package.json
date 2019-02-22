@@ -1,0 +1,12 @@
+{
+  "name": "configure-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Welington da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "get-port": "^4.1.0"
+  }
+}
